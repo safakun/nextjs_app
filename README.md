@@ -1,5 +1,6 @@
 https://www.youtube.com/watch?v=wm5gMKuwSYk 
 
+1h 15 min
 
 ```bash
 npm install bcrypt 
@@ -8,6 +9,14 @@ npm install next-auth
 ```
 
 es7+  React/Redux extension fov VSCode 
+
+
+in .env file add
+GOOGLE_ID=
+GOOGLE_CLIENT_SECRET=
+MONGODB_URI=
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
