@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=wm5gMKuwSYk 
 
-1h 15 min
+1h 30 min
 
 ```bash
 npm install bcrypt 
